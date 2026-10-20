@@ -4,9 +4,10 @@
 A system that allows students to pre-order food and beverages from the cafeteria.
 
 ## Project Objectives
-- To help students track their daily expenses.
-- To organise expense records systematically.
-- To help students monitor their spending.
+1. To develop a Cafeteria Pre-Order System that allows UMT students and seller to place food and beverage orders in advance.
+2. To reduce waiting time and long queues by allowing users to order food before arriving at the cafeteria.
+3. To improve order management by helping cafeteria operators organize incoming orders and prepare food more efficiently.
+4. To provide a convenient and user-friendly platform for customers to view available menu items and manage their orders.
 
 ## Team Members
 - Member 1: AINA BATRISYIA BT ABD RAHIM
